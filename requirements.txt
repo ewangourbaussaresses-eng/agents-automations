@@ -1,0 +1,5 @@
+# Aucune dépendance n'est nécessaire pour faire tourner les scripts :
+# ils utilisent uniquement la bibliothèque standard de Python.
+#
+# Les paquets ci-dessous ne servent qu'aux tests et aux workflows CI.
+pytest>=8.0
