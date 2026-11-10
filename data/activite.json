@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "title": "Support client : 12 tickets traités",
+      "date": "2026-11-06T09:30:00",
+      "body": "Traitement des tickets de support, deux incidents de sécurité escaladés.",
+      "todos": ["Recontacter le client Martin"]
+    },
+    {
+      "title": "Optimisation des performances",
+      "date": "2026-11-07T14:00:00",
+      "body": "Analyse des logs serveur, amélioration du temps de réponse de l'API.",
+      "todos": []
+    }
+  ]
+}
