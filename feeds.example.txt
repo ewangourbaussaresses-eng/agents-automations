@@ -1,0 +1,7 @@
+# Sources de veille — une URL par ligne, les lignes # sont ignorées.
+# Remplacez par les flux qui vous intéressent.
+
+https://feeds.feedburner.com/lemonde/une
+https://www.frenchweb.fr/feed
+https://news.ycombinator.com/rss
+https://github.blog/feed/
